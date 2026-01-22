@@ -1,11 +1,14 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Duncan Stangel! 👋
 
-I'm a student at the University of Notre Dame studying [your major].
+I'm a student at the University of Notre Dame studying Global Affairs and Theology.
 
 ## About Me
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: [your email]
+- 📫 How to reach me: dstangel@nd.edu
 
 ## Interests
-- [Add a few of your interests or hobbies]
+- Democracy
+- European Politics
+- American Football
+- Social Media Analytics 
