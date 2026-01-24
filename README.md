@@ -8,13 +8,23 @@ I'm a sophomore at the University of Notre Dame studying Global Affairs and Theo
 
 In my spare time, I enjoy American football, running, working for my college newspaper (The Observer), and watching Survivor. I enjoy incorporating data analytics into my work, specifically for the Observer's growing Instragram following or quantifying strategic moves on tv. 
 
-## About Me
+## ABOUT ME
 - 🎓 Currently taking Introduction to Data Science
 - 🌱 Learning Python, pandas, and data visualization
 - 📫 How to reach me: dstangel@nd.edu
 
-## Interests
+## INTERESTS
 - Democracy
 - European Politics
 - American Football
-- Social Media Analytics 
+- Social Media Analytics
+
+## PROFILE
+https://github.com/dstangel58
+
+## PORTFOLIO
+dstangel58/STANGEL-Data-Science-Portfolio
+
+
+
+
