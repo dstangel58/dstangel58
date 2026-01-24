@@ -23,7 +23,7 @@ In my spare time, I enjoy American football, running, working for my college new
 https://github.com/dstangel58
 
 ## PORTFOLIO
-dstangel58/STANGEL-Data-Science-Portfolio
+https://github.com/dstangel58/STANGEL-Data-Science-Portfolio
 
 
 
