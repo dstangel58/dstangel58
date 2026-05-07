@@ -31,13 +31,13 @@ Check out my profile on [LinkedIn](https://www.linkedin.com/in/duncan-stangel-a4
 - Social Media Analytics
 
 ## PROFILE
-https://github.com/dstangel58
+* https://github.com/dstangel58
 
 ### Contact 📧 
-* 📫 How to reach me: duncanstangel@gmail.com
+* duncanstangel@gmail.com
 
 ### PORTFOLIO
-https://github.com/dstangel58/STANGEL-Data-Science-Portfolio
+* https://github.com/dstangel58/STANGEL-Data-Science-Portfolio
 
 
 
