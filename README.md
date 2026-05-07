@@ -2,7 +2,7 @@
 
 ## **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
-Check out my profile on [LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/]) 
+Check out my profile on [LinkedIn] ([https://www.linkedin.com/in/duncan-stangel-a45b44354/]) 
 
 ## **Fast Facts:**
 * Sophomore at the Univeristy of Notre Dame
