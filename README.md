@@ -2,13 +2,14 @@
 
 ## **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
-Check Out my Profile on [![LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
+Check out my profile on <img width="512" height="512" alt="linkedin" src="https://github.com/user-attachments/assets/b0d95fd7-0040-4a7d-8c7a-b1ffadbc3bd4" />
+[LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
 
 ## **Fast Facts:**
 * Sophomore at the Univeristy of Notre Dame
 * Currently majoring in global affairs and theology, with a minor in data science
 * Aspiring political science PhD with emphasis in comparative politics and quantitative methodology
-* Currently Learning --> Python and R
+* Currently Learning --> Python (intermediate level) and R (beginner)
 
 ## **Experience:** 
 * Research Assistant @ [The Kellogg Institute](https://kellogg.nd.edu/opportunities/undergraduate-students/research-programs/kellogg-international-scholars-program) -- September 2025 - present
