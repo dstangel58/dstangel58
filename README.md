@@ -1,6 +1,6 @@
-## Hi, I'm Duncan Stangel! 👋
+# Duncan Stangel
 
-# **📓 🔍 🕵 About Me 📓 🔍 🕵**
+## **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
 Check Out my Profile on [![LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
 
