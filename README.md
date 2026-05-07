@@ -2,8 +2,7 @@
 
 ## **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
-Check out my profile on <img width="10" height="10" alt="linkedin" src="https://github.com/user-attachments/assets/b0d95fd7-0040-4a7d-8c7a-b1ffadbc3bd4" />
-[LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
+Check out my profile on [LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/]) <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/b0d95fd7-0040-4a7d-8c7a-b1ffadbc3bd4" />
 
 ## **Fast Facts:**
 * Sophomore at the Univeristy of Notre Dame
