@@ -22,9 +22,6 @@ Check Out my Profile on [![LinkedIn]([https://www.linkedin.com/in/duncan-stangel
 * Writing Op-eds 📰
 * Podcasting 🎙️
 
-### Contact 
-* 📫 How to reach me: duncanstangel@gmail.com
-
 ## INTERESTS
 - Democracy Research
 - European Politics
@@ -36,7 +33,10 @@ Check Out my Profile on [![LinkedIn]([https://www.linkedin.com/in/duncan-stangel
 ## PROFILE
 https://github.com/dstangel58
 
-## PORTFOLIO
+### Contact 📧 
+* 📫 How to reach me: duncanstangel@gmail.com
+
+### PORTFOLIO
 https://github.com/dstangel58/STANGEL-Data-Science-Portfolio
 
 
