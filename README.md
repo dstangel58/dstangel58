@@ -1,21 +1,34 @@
 ## Hi, I'm Duncan Stangel! 👋
 
-# 📓 🔍 🕵 
+# **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
-I'm a sophomore at the University of Notre Dame studying Global Affairs and Theology, with aspirations to incorporate data-driven research to a career in law or as a professor political science. Currently, I research democracy within the Kellog Institute of International Studies to understand the effects of party system institutionalization on democracy. I'm expanding my professional skills this semester by learning R as a part of my research. 
+[![LinkedIn](https://shields.io)]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
 
-# R 🏈 🏃 📰 🌴 
+## **Fast Facts:**
+* Sophomore at the Univeristy of Notre Dame
+* Currently majoring in global affairs and theology, with a minor in data science
+* Aspiring political science PhD with emphasis in comparative politics and quantitative methodology
+* Currently Learning --> Python and R
 
-In my spare time, I enjoy American football, running, working for my college newspaper (The Observer), and watching Survivor. I enjoy incorporating data analytics into my work, specifically for the Observer's growing Instagram following or quantifying strategic moves on tv. 
+## **Experience:** 
+* Research Assistant @ [The Kellogg Institute](https://kellogg.nd.edu/opportunities/undergraduate-students/research-programs/kellogg-international-scholars-program) -- September 2025 - present
+* Opinion Editor @ [The Observer](https://www.ndsmcobserver.com/) -- March 2026 - present 
+* Social Media Editor @ [The Observer](https://www.ndsmcobserver.com/) -- March 2025 - March 2026 
+
+# Interests & Hobbies
+
+* Game Theory & Social Strategy 🎲
+* Running 🏃
+* Writing Op-eds 📰
+* Podcasting 🎙️
 
 ## ABOUT ME
-- 🎓 Currently taking Introduction to Data Science
-- 🌱 Learning Python, pandas, and data visualization
-- 📫 How to reach me: dstangel@nd.edu
+* 📫 How to reach me: duncanstangel@gmail.com
 
 ## INTERESTS
 - Democracy
 - European Politics
+- Survivor
 - American Football
 - Social Media Analytics
 
