@@ -14,8 +14,16 @@
 * Opinion Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2026 - present)*
 * Social Media Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2025 - March 2026)*
 
-### 🚨 **Portfolio** 🚨
+###**Tech Skills / Favorite Libraries:**
+* Python: 
+  * Pandas -- dataframes and dataset manipulation
+  * Seaborn and Matplotlib.pyplot -- for chart/graph creation
+  * Streamlit -- for app creation
+  * Scikit-learn -- for predictive modeling
+* R
+  * for statistics and dataset manipulation (used for voting data in democracy research)
 
+### 🚨 **Portfolio** 🚨
 [![Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-Gray?logo=github)](https://github.com/dstangel58/STANGEL-Data-Science-Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-stangel-a45b44354/)
 
