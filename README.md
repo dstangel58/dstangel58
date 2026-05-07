@@ -1,10 +1,5 @@
 # Duncan Stangel
 
-### 🚨 **Portfolio** 🚨
-
-[![Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-Gray?logo=github)](https://github.com/dstangel58/STANGEL-Data-Science-Portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-stangel-a45b44354/)
-
 # **About Me**
 
 ## **Fast Facts:**
@@ -15,15 +10,14 @@
 * 📫 How to reach me: [duncanstangel@gmail.com](mailto:duncanstangel@gmail.com)
 
 ## **Experience:** 
-* Research Assistant @ [The Kellogg Institute](https://kellogg.nd.edu/opportunities/undergraduate-students/research-programs/kellogg-international-scholars-program) -- September 2025 - present
+* Research Assistant @ [The Kellogg Institute](https://kellogg.nd.edu/opportunities/undergraduate-students/research-programs/kellogg-international-scholars-program) -- *(September 2025 - present)*
 * Opinion Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2026 - present)*
-* Social Media Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2025 - March 2026)* 
+* Social Media Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2025 - March 2026)*
 
-## **Interests & Hobbies**
-* Game Theory & Social Strategy 🎲
-* Running 🏃
-* Writing Op-eds 📰
-* Podcasting 🎙️
+### 🚨 **Portfolio** 🚨
+
+[![Portfolio](https://img.shields.io/badge/Data_Science_Portfolio-Gray?logo=github)](https://github.com/dstangel58/STANGEL-Data-Science-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duncan-stangel-a45b44354/)
 
 ## **Interests**
 * Democracy Research 🗳️
@@ -32,6 +26,12 @@
 * Survivor 🌴
 * American Football 🏈
 * Social Media Analytics 📊
+
+## **Hobbies**
+* Game Theory & Social Strategy 🎲
+* Running 🏃
+* Writing Op-eds 📰
+* Podcasting 🎙️
 
 ## **Profile**
 * https://github.com/dstangel58
