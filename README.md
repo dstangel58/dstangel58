@@ -2,7 +2,7 @@
 
 # **📓 🔍 🕵 About Me 📓 🔍 🕵**
 
-[![LinkedIn](https://shields.io)]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
+Check Out my Profile on [![LinkedIn]([https://www.linkedin.com/in/duncan-stangel-a45b44354/])
 
 ## **Fast Facts:**
 * Sophomore at the Univeristy of Notre Dame
@@ -22,12 +22,13 @@
 * Writing Op-eds 📰
 * Podcasting 🎙️
 
-## ABOUT ME
+### Contact 
 * 📫 How to reach me: duncanstangel@gmail.com
 
 ## INTERESTS
-- Democracy
+- Democracy Research
 - European Politics
+- Catholic Theology
 - Survivor
 - American Football
 - Social Media Analytics
