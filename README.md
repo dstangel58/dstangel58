@@ -9,6 +9,10 @@
 * 💻 Currently Learning: Python and R
 * 📫 How to reach me: [duncanstangel@gmail.com](mailto:duncanstangel@gmail.com)
 
+### **Check out my latest project!** 
+
+In this project, I use an unsupervised [model](https://github.com/dstangel58/STANGEL-Data-Science-Portfolio/tree/main/MLUnsupervisedApp) to harness various datasets to model wellbeing in various countries across the world.  
+
 ### **Experience:** 
 * Research Assistant @ [The Kellogg Institute](https://kellogg.nd.edu/opportunities/undergraduate-students/research-programs/kellogg-international-scholars-program) -- *(September 2025 - present)*
 * Opinion Editor @ [The Observer](https://www.ndsmcobserver.com/) -- *(March 2026 - present)*
