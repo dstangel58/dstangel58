@@ -1,6 +1,6 @@
 # Duncan Stangel
 
-## **📓 🔍 🕵 About Me 📓 🔍 🕵**
+## ** About Me <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/b0d95fd7-0040-4a7d-8c7a-b1ffadbc3bd4" />**
 
 Check out my profile on [LinkedIn](https://www.linkedin.com/in/duncan-stangel-a45b44354/) <img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/b0d95fd7-0040-4a7d-8c7a-b1ffadbc3bd4" />
 
